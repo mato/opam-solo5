@@ -1,1 +1,1 @@
-src: "git://github.com/mirage/mirage-net-solo5"
+src: "git://github.com/mato/mirage-net-solo5#solo5-api-refresh-v2"
