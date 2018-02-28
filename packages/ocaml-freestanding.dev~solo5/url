@@ -1,1 +1,1 @@
-src: "git://github.com/mato/ocaml-freestanding#solo5-api-refresh-v2"
+src: "git://github.com/mirage/ocaml-freestanding"
