@@ -1,1 +1,1 @@
-src: "https://github.com/mato/ocaml-freestanding.git#wip-renaming"
+src: "git://github.com/mato/ocaml-freestanding.git#wip-renaming"
